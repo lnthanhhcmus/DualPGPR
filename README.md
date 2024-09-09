@@ -1,6 +1,6 @@
 # Enhancing Personalized Recommender Systems through Explainable User Preference Mining and Reinforced Knowledge Graph Reasoning 
 
-The DualPGPR model is under reviewing. 
+The DualPGPR model is being reviewed.
 
 ## Datasets
 The datasets used in the experiments are from Amazon available at http://jmcauley.ucsd.edu/data/amazon/. The preprocessed datasets are in the `data` folder.
