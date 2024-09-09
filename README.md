@@ -3,7 +3,7 @@
 The DualPGPR model is being reviewed.
 
 ## Datasets
-The datasets used in the experiments are from Amazon available at http://jmcauley.ucsd.edu/data/amazon/. The preprocessed datasets are in the `data` folder.
+The datasets used in the experiments are from Amazon available at http://jmcauley.ucsd.edu/data/amazon/. The preprocessed datasets are in the `preprocess` folder.
 
 ## Requirements
 The required packages are listed in the `requirements.txt` file.
